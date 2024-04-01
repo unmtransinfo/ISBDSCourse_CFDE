@@ -17,7 +17,9 @@ The first session of __ISBDS: CFDE Edition__ is scheduled for the summer
 of 2024, as a fully remote, online course. Dates, registration, and other
 details available via:
 
-__[CFDE NIH Home Page](https://commonfund.nih.gov/dataecosystem)__
+<p style="text-align: center;">
+__[ISBDS-CFDE Home Page](https://datascience.unm.edu/isbdscourse_cfde/)__
+</p>
 
 See also:
 
